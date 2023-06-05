@@ -1,3 +1,5 @@
 # LP12DPBO2023C1
 
 Saya Muhammad Fakhri Fadhlurrahman NIM 2105997 mengerjakan soal LP12 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+Alasan menggunakan MVVM (Model View ViewModel) karena memiliki beberapa kelebihan, antara lain siklus hidup yang lebih sederhana karena penggunaan pengikatan data yang menghubungkan langsung view-model dengan siklus hidup tampilan, pengikatan data yang lebih kuat sehingga perubahan pada model secara otomatis diperbarui pada tampilan, kemudahan uji unit karena logika bisnis berada di dalam view-model yang independen, dan kemudahan pengembangan antarmuka karena tampilan dan model bekerja secara terpisah. Namun, pilihan arsitektur tetap tergantung pada kebutuhan dan preferensi pengembang.
